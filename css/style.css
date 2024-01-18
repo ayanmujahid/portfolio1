@@ -1,0 +1,25 @@
+
+.text-gray-600 {
+    background-color: #000000;
+}
+
+.leading-relaxed {
+    color: white;
+}
+
+.text-gray-900 {
+    color: white;
+}
+
+.bg-gray-100 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(112, 112, 112);
+}
+.hover\:text-gray-900:hover {
+--tw-text-opacity: 1;
+color: grey;
+}
+a {
+color: white;
+text-decoration: inherit;
+}
